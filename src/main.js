@@ -1,5 +1,5 @@
 import React from 'react';
 import {render} from 'react-dom';
-import HelloWorld from './HelloWorld.js';
+import ExportDemo from './ExportDemo.js';
 
-render(<HelloWorld/>, document.querySelector('#app'));
+render(<ExportDemo/>, document.querySelector('#app'));
